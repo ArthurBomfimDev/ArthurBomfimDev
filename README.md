@@ -13,9 +13,9 @@
 # 📊 GitHub Stats:
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx0MDhwa3Nob216OGh1NnlqbnV1NGU2d2V2eHppc2U1ejg4dmEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
-![](https://github-readme-stats.vercel.app/api?username=ArthurTheCreator&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArthurTheCreator&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTheCreator&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ArthurBomfimDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ArthurBomfimDev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBomfimDev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 <picture>
