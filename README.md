@@ -1,10 +1,11 @@
 
 ## 🚀 Sobre Mim
+
+Sou um desenvolvedor Back-End apaixonado pelo ecossistema **C# .NET**. Sou movido pela lógica por trás da criação de soluções robustas, escaláveis e de alta performance, e estou sempre buscando aprender e evoluir na área de tecnologia.
+
 <div align="center">
   <img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx0MDhwa3Nob216OGh1NnlqbnV1NGU2d2V2eHppc2U1ejg4dmEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF de codificação">
 </div>
-
-Sou um desenvolvedor Back-End apaixonado pelo ecossistema **C# .NET**. Sou movido pela lógica por trás da criação de soluções robustas, escaláveis e de alta performance, e estou sempre buscando aprender e evoluir na área de tecnologia.
 
 - 🎓 Atualmente, cursando **Análise e Desenvolvimento de Sistemas na FATEC**.
 - 🧠 Minha paixão por lógica me impulsiona a resolver desafios complexos e a escrever um código limpo e eficiente.
