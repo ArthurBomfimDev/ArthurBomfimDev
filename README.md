@@ -1,8 +1,8 @@
+
+## 🚀 Sobre Mim
 <div align="center">
   <img align="right" height="180px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx0MDhwa3Nob216OGh1NnlqbnV1NGU2d2V2eHppc2U1ejg4dmEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF de codificação">
 </div>
-
-## 🚀 Sobre Mim
 
 Sou um desenvolvedor Back-End apaixonado pelo ecossistema **C# .NET**. Sou movido pela lógica por trás da criação de soluções robustas, escaláveis e de alta performance, e estou sempre buscando aprender e evoluir na área de tecnologia.
 
